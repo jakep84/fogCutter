@@ -46,7 +46,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\GPS.cs" />
      <Compile Include="Assets\appExit.cs" />
+     <Compile Include="Assets\updateGPStext.cs" />
      <Compile Include="Assets\webCamScript.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
