@@ -27,10 +27,12 @@ Check out the VUZIX AR3000 smart glasses:
 
 
 Find out more about Unity3D [here](https://unity3d.com/).
+
 Learn more about the Blade 3000 Smart Glasses [here](https://www.vuzix.com/Products/Blade-3000-Smart-Glasses).
 
 
 Have questions?  Ask me [here](http://jakepriddy.com/).
+
 Interested in contributing?  Learn how [here](https://help.github.com/desktop/guides/contributing/).
 
 
