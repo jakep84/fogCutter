@@ -22,6 +22,7 @@ FogCutter was built to enhance situational awareness of boat pilots, allowing th
 
 
 Check out the VUZIX AR3000 smart glasses: 
+
 [![platform](https://img.youtube.com/vi/x-F_o8SM_XU/0.jpg)](https://www.youtube.com/watch?v=x-F_o8SM_XU)
 
 
