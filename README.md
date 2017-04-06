@@ -5,7 +5,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 
-FogCutter is an open source augmented reality application I built using Unity3D. Written in C#, the fogCutter HUD displays realtime device data in the form of GPS location, magnetic compass, time and live camera feed. Although it is cross-platform, cross-browser, and tuned for dynamic-data visualization, it is currently only run and tested on Android.
+FogCutter is an Open Source augmented reality Android application I built using Unity3D. Written in C#, the fogCutter HUD displays realtime device data in the form of GPS location, magnetic compass, time and live camera feed. Although it is cross-platform, cross-browser, and tuned for dynamic-data visualization, it is currently only tested and run on Android devices.
 
 
 
