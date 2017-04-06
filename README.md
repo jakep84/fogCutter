@@ -9,11 +9,11 @@ FogCutter is an augmented reality application built using the unity game engine.
 
 
 
-<p align="center">
+<p>
 <img src="/frogmanAmazon.png" width="50%" />
 <img src="/fogCutterAmazon.png" width="50%"/>
 </p>
-<p align="center">
+<p>
 	<img src="/offshoreFog.png" width="50%"/>
 	<img src="/fogcutterFog.png" width="50%"/>
 </p>
