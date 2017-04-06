@@ -1,5 +1,5 @@
 <p align="center">
-<img src="/fogCutterLogo.png" width="50%" />
+<img src="/fogCutterLogo.png" width="100%" />
 </p>
 
 
@@ -10,7 +10,6 @@ FogCutter is an augmented reality application built using the unity game engine.
 
 https://unity3d.com/
 
-```
 
 Have questions?  Ask them on the [forum](https://forum.unity3d.com/?_ga=1.221696606.773096705.1491450683).
 
