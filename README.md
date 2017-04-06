@@ -1,5 +1,5 @@
 <p align="center">
-<img src="/fogCutterLogo.png" width="100%" />
+<img src="/fogCutterLogo.png" width="75%" />
 </p>
 
 
@@ -13,7 +13,7 @@ https://unity3d.com/
 
 Have questions?  Ask them on the [forum](https://forum.unity3d.com/?_ga=1.221696606.773096705.1491450683).
 
-Interested in contributing?  See [CONTRIBUTING.md](CONTRIBUTING.md).
+Interested in contributing?  Leran how [here](https://help.github.com/desktop/guides/contributing/).
 
 
 # fogCutter
